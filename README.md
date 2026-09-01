@@ -9,3 +9,4 @@
 ![My scrobbles](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=JeffreyCA01)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SageGallant&theme=tokyonight)](https://git.io/awesome-stats-card)
 ![](./profile-3d-contrib/profile-gitblock.svg)
+.
