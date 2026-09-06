@@ -49,10 +49,6 @@
 
 <br>
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=sagegallant&theme=tokyonight)](https://github.com/sagegallant)
-
-<br>
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
